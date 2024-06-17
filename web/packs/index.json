@@ -1,6 +1,5 @@
 {
   "packs": [
-	"miratsu169.json",
     "aizawa_miku.json",
     "cass_common.json",
     "rabi.json",
@@ -11,7 +10,8 @@
     "galgame.json",
     "100oj-default.json",
     "palworld.json",
-    "Blob_Cats.json"
+    "Blob_Cats.json",
+    "miratsu169.json"
   ],
   "homeserver_url": "https://matrix.100oj.com"
 }
